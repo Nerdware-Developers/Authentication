@@ -1,0 +1,14 @@
+{
+    "jimmy": {
+        "name": "james",
+        "last_name": "jamo",
+        "emai": "test@gmail.com",
+        "phone": "+1234567890",
+        "password": "$2b$12$bv9.ExxUw1YhCkFRRkHGGOhUSSjOHloYHEhRNin6PTw7pQEuCEloy",
+        "failed_attempts": 0,
+        "lock_until": null,
+        "quiz1": "Nakuru",
+        "quiz2": "jimmy",
+        "quiz3": "phobos"
+    }
+}
